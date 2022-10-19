@@ -1,4 +1,5 @@
 # orm-sequelize
-Curso de ORMs com Sequelize e NodeJS.
+
+API 
 
 Esse projeto foi feito durante o curso "ORM com NodeJS: API com Sequelize e MySQL" da Alura.
