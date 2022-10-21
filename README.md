@@ -2,4 +2,8 @@
 
 API desenvolvida para gerenciar alunos, professores, cursos, matriculas, turmas, entre outros dados necessários para o funcionamento do sistema.
 
-<div style="font-family:Papyrus; font-size:2em;">Esse projeto foi feito durante o curso "ORM com NodeJS: API com Sequelize e MySQL" da Alura.</div>
+
+
+
+
+_Esse projeto foi feito durante o curso "ORM com NodeJS: API com Sequelize e MySQL" da Alura._
